@@ -1,0 +1,41 @@
+html{
+  background-color: rgb(13,26,45);
+}
+.box{
+  position: fixed;
+  max-width: 270px;
+  margin: auto;
+  inset: 20px;
+  height: 467px;
+  padding: 1rem;
+  border: 10px;
+  background-color: rgb(181, 109, 155);
+  color:rgb(20, 88, 63)
+}
+img{
+  margin: auto;
+  border-radius: 18px;
+  color: rgb(13,23,38);
+  
+  
+}
+.collection{
+  font-weight: bold;
+  color: rgb(75, 53, 53);
+}
+
+.profile{
+  width: 25px;
+  height: 25px;
+  border-radius: 60%;
+  border: 3px solid rgb(176, 170, 170);
+  
+  /* size: 10px; */
+}
+.name{
+  margin-top: -25px;
+  margin-left: 33px;
+  color: rgb(26, 4, 26);
+  font-style: italic;
+  font-weight: bold;
+}
